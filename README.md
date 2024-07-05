@@ -1,6 +1,6 @@
 ## Olá! Eu sou Rubens Rabelo 👋!
 
-Abaixo, segui algumas informações para contato:
+Abaixo, seguem os dados para contato:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-rabelo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rubensrabelo@alu.ufc.br)
 
